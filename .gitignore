@@ -1,0 +1,14 @@
+# OS Files
+.DS_Store
+Thumbs.db
+.directory
+
+# Editor/IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project Temporary Files
+/tmp/
+.gemini/

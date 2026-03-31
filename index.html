@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>💖 Vill du bli min Valentine? 💖</title>
+  <meta name="description" content="En kärleksfull fråga till den bästa personen i världen.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Floating hearts background -->
+  <div class="floating-hearts" id="floatingHearts"></div>
+
+  <!-- Floating flowers background -->
+  <div class="floating-flowers" id="floatingFlowers"></div>
+
+  <!-- Language Switcher -->
+  <div class="lang-switcher">
+    <button class="lang-btn" id="langBtn" onclick="toggleLangMenu()">
+      <span class="flag" id="currentFlag">🇸🇪</span>
+      <span class="lang-name" id="currentLangName">Svenska</span>
+    </button>
+    <div class="lang-menu hidden" id="langMenu">
+      <!-- Languages will be injected by script.js -->
+    </div>
+  </div>
+
+  <!-- Main content -->
+  <main class="container" id="questionScreen">
+    <div class="card">
+      <div class="hearts-top">💕</div>
+      <h1 class="title" id="mainTitle">Vill du bli min Valentine?</h1>
+      <p class="subtitle" id="mainSubtitle">Du gör varje dag magisk ✨</p>
+      <div class="flower-divider">🌹 🌷 🌺 🌸 🌹</div>
+      <div class="buttons-wrapper">
+        <div class="buttons" id="buttonsContainer">
+          <button class="btn btn-yes" id="btnYes" onclick="sayYes()">
+            <span id="txtYes">Ja, absolut! 💖</span>
+          </button>
+          <button class="btn btn-no" id="btnNo" onclick="sayNo()">
+            <span id="txtNo">Nej 😢</span>
+          </button>
+        </div>
+      </div>
+      <p class="hint" id="hint"></p>
+    </div>
+  </main>
+
+  <!-- Celebration screen -->
+  <div class="celebration-screen hidden" id="celebrationScreen">
+    <div class="celebration-content">
+      <h1 class="celebration-title" id="celTitle">JAAAAA! 🎉💖🎉</h1>
+      <h2 class="celebration-subtitle" id="celSubtitle">Jag visste det! 🥰</h2>
+      <p class="celebration-text" id="celText">Du är den bästa i hela världen!</p>
+      <div class="big-heart" id="bigHeart">❤️</div>
+      <p class="celebration-footer" id="celFooter">Älskar dig för alltid 💕</p>
+    </div>
+    <canvas id="fireworksCanvas"></canvas>
+    <div id="confettiContainer"></div>
+    <div id="heartExplosion"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
