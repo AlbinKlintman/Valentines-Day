@@ -8,38 +8,23 @@ A magical, interactive, and multilingual web experience designed to ask that spe
 - **Dynamic Backgrounds**: Floating animated hearts and flowers create a romantic atmosphere.
 - **Grand Celebration**: A successful "Yes" triggers a full-screen celebration with custom fireworks, multi-shaped confetti, and explosions of varying heart emojis.
 - **Multilingual Support**: Supports 16 different languages with accurate translations:
-  - Swedish 🇸🇪 (Original)
-  - English 🇬🇧
-  - Spanish 🇪🇸
-  - Mandarin Chinese 🇨🇳
-  - Hindi 🇮🇳
-  - Norwegian 🇳🇴
-  - Danish 🇩🇰
-  - Finnish 🇫🇮
-  - Modern Standard Arabic 🇸🇦
-  - French 🇫🇷
-  - Bengali 🇧🇩
-  - Portuguese 🇵🇹
-  - Indonesian 🇮🇩
-  - Urdu 🇵🇰
-  - Standard German 🇩🇪
-  - Japanese 🇯🇵
+  - Swedish 🇸🇪 (Original), English 🇬🇧, Spanish 🇪🇸, Mandarin Chinese 🇨🇳, Hindi 🇮🇳, Norwegian 🇳🇴, Danish 🇩🇰, Finnish 🇫🇮, Modern Standard Arabic 🇸🇦, French 🇫🇷, Bengali 🇧🇩, Portuguese 🇵🇹, Indonesian 🇮🇩, Urdu 🇵🇰, Standard German 🇩🇪, Japanese 🇯🇵.
 - **Responsive & Premium Design**: Mobile-friendly, high-quality typography (Dancing Script & Outfit), and soft glassmorphism effects with vibrant red pulsing accents.
 
 ## 📸 Screenshots
 
 | The more you refuse... | The harder it becomes to say no... |
 |-------------------------|------------------------------------|
-| ![Start Page](./screenshots/Start-page.png) | ![Bigger](./screenshots/Bigger.png) |
+| ![Start Page](https://github.com/user-attachments/assets/71f7cb0b-724b-46fb-903a-3eabfecba973) | ![Bigger](https://github.com/user-attachments/assets/69c25866-9325-4631-be66-f5ba2f32db25) |
 
 | Until you can't resist anymore! | I knew it! 🎉 |
 |---------------------------------|-------------|
-| ![Biggest](./screenshots/Biggest.png) | ![She Said Yes](./screenshots/She-said-yes!.png) |
+| ![Biggest](https://github.com/user-attachments/assets/d33792ee-2163-4727-8642-5cc5239de460) | ![She Said Yes](https://github.com/user-attachments/assets/35abe61a-9b79-46c7-a41a-7d46d0284d8b) |
 
 ### 🌍 One question, sixteen languages!
 | Language Picker First Half | Language Picker Second Half |
 |-------------------------|------------------------|
-| ![Languages 1](./screenshots/Languages1.png) | ![Languages 2](./screenshots/Languages2.png) |
+| ![Languages 1](https://github.com/user-attachments/assets/286cf74e-3eb8-48d7-9b9e-3deec0c1c13f) | ![Languages 2](https://github.com/user-attachments/assets/0ffc32f7-047a-430e-947a-7d6094866736) |
 
 ## 🚀 How to Run
 
