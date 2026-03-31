@@ -1,4 +1,4 @@
-# 💖 Vill du bli min Valentine? 💖
+# 💖 Will you be my Valentine? 💖
 
 A magical, interactive, and multilingual web experience designed to ask that special someone to be your Valentine. Built with pure HTML, CSS, and vanilla JavaScript for a smooth and delightful experience.
 
@@ -32,12 +32,12 @@ A magical, interactive, and multilingual web experience designed to ask that spe
 |-------------------------|------------------------------------|
 | ![Start Page](./screenshots/Start-page.png) | ![Bigger](./screenshots/Bigger.png) |
 
-| Until you can't resist anymore! | JAAAAA! 🎉 |
+| Until you can't resist anymore! | I knew it! 🎉 |
 |---------------------------------|-------------|
 | ![Biggest](./screenshots/Biggest.png) | ![She Said Yes](./screenshots/She-said-yes!.png) |
 
 ### 🌍 One question, sixteen languages!
-| Language Picker Page 1 | Language Picker Page 2 |
+| Language Picker First Half | Language Picker Second Half |
 |-------------------------|------------------------|
 | ![Languages 1](./screenshots/Languages1.png) | ![Languages 2](./screenshots/Languages2.png) |
 
